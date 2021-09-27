@@ -8,7 +8,7 @@ Information Security Professional currently interested in making a switch to pen
 <script src="https://tryhackme.com/badge/289035"></script>
 <br>
 <a class="twitter-follow-button"
-  href="https://twitter.com/hhhharshil">
+  href="https://twitter.com/hhhharshil"
+  data-size="large">
 Follow @hhhharshil</a>
-
 * * *
