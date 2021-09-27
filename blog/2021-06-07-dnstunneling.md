@@ -1,6 +1,7 @@
 ---
-title: DNS Tunneling
-date: 2021-06-07
+layout: post
+title: "DNS Tunneling"
+permalink: /resources/dns-tunneling
 categories: Blue Team, Red Team, Persistence
 ---
 
