@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: default
 title: "Must Have Tools On Kali Linux for CTFs"
-permalink: /blog/kalitools
+permalink: /resources/kalitools
 categories: Kali
 ---
 
