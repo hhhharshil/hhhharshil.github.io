@@ -34,11 +34,11 @@ To showcase an example, I will be using the room "Inclusion" which is available 
 
 [Try Out Inclusion Here](https://tryhackme.com/room/inclusion)
 
-![File Inclusion 1]({{site.url}}/assets/images/file-inclusions/file-inclusion-1.png)
+![File Inclusion 1]({{site.url}}/assets/resources/file-inclusion/file-inclusion-1.png)
 
 As shown in the bottom left hand corner we have a file "article" which is using the variable name to input a file that is hosted locally on the webserver. This is a great candidate to test our local file inclusion.
 
-<img src="/assets/images/file-inclusions/file-inclusion-2.png">
+<img src="/assets/resources/file-inclusion/file-inclusion-1.png">
 
 In the example above we replaced the input which was set to "hacking" which was a reference to a web page stored locally to the /etc/passwd file. The usage of "../" would be dependent on the configuration of the web server. It may need more or less of those characters as the directory can be stored in a different area. This is known as directory traversal.
 
