@@ -1,6 +1,7 @@
 ---
-title: Must Have Tools On Kali Linux for CTFs
-date: 2021-05-23
+layout: post
+title: "Must Have Tools On Kali Linux for CTFs"
+permalink: /blog/Must-Have-Tools-On-Kali-Linux-for-CTFs
 categories: Kali
 ---
 
