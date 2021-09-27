@@ -1,6 +1,7 @@
----
-title: File Inclusion 101
-date: 2021-09-26
+--- 
+layout: post
+title: "File Inclusion 101"
+permalink: /resources/file-inclusion
 categories: WebApp
 ---
 
