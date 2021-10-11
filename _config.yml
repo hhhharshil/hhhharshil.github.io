@@ -17,7 +17,7 @@ title: InfoSec Blog
 author: HHHHarshil
 email: harshil@hhhharshil.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog I've put together to store notes, write-ups and things I've learned over the years.
+  Isn't Everyone Hiding Something?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hhhharshil
