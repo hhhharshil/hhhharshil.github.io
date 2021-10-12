@@ -8,7 +8,8 @@ permalink: /writeups/
 
 A collection of write-ups for retired boxes that breakdown my methodology. 
 
-| Name                              | Difficulty |
-|:----------------------------------|:-----------|
-| [ice](/writeups/2021-5-25-ice.md) | medium     |
+| Name                                            | Difficulty |
+|:------------------------------------------------|:-----------|
+| [ice](/writeups/2021-5-25-ice.md)               | medium     |
+| [BTRSYS2.1](/writeups/2021-10-11-btrsys2.1.md)  | medium     |
      
