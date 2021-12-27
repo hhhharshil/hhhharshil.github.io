@@ -15,3 +15,4 @@ A collection of write-ups for retired boxes that breakdown my methodology.
 | [Born2Root](/writeups/2021-12-24-born2root.md)  | medium     |     
 | [SoSimple](/writeups/2021-12-25-sosimple.md)    | medium     | 
 | [Stapler](/writeups/2021-12-26-stapler.md)      | medium     | 
+| [HA:Wordy](/writeups/2021-12-27-hawordy.md)     | medium     | 
