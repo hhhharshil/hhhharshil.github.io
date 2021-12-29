@@ -17,3 +17,4 @@ A collection of write-ups for retired boxes that breakdown my methodology.
 | [Stapler](/writeups/2021-12-26-stapler.md)        | medium     | 
 | [HA:Wordy](/writeups/2021-12-27-hawordy.md)       | medium     | 
 | [InfoSecPrep](/writeups/2021-12-28-infosecprep.md)| easy       | 
+| [Seppuku](/writeups/2021-12-29-seppuku.md)        | easy       | 
