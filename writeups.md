@@ -18,3 +18,4 @@ A collection of write-ups for retired boxes that breakdown my methodology.
 | [HA:Wordy](/writeups/2021-12-27-hawordy.md)       | medium     | 
 | [InfoSecPrep](/writeups/2021-12-28-infosecprep.md)| easy       | 
 | [Seppuku](/writeups/2021-12-29-seppuku.md)        | easy       | 
+| [Tre](/writeups/2021-12-30-tre.md)                | medium     | 
