@@ -13,3 +13,5 @@ Information Security Professional currently interested in making a switch to pen
 Follow @hhhharshil</a>
 <br>
 * * *
+
+If you are looking for my pentesting notes they can be found here href="https://notes.hhhharshil.com"
