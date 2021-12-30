@@ -12,6 +12,7 @@ Information Security Professional currently interested in making a switch to pen
   data-size="large">
 Follow @hhhharshil</a>
 <br>
-* * *
 
 If you are looking for my pentesting notes they can be found @ https://notes.hhhharshil.com
+* * *
+
