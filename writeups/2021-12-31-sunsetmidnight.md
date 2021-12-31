@@ -66,7 +66,7 @@ PORT     STATE SERVICE REASON  VERSION
 ---
 The webpage over at port 80 was running wordpress so wp-scan was ran against the machine to enumerate for version numbers and bruteforce the password for the admin user which was disclosed by the login page.
 
-<img src="/assets/resources/sunsetmidnight/sunset_disclosure.png" />
+<img src="/assets/resources/sunsetmidnight/suset_disclosure.png" />
 
 ```
 [+] URL: http://sunset-midnight/wp-login.php/ [192.168.134.88]
