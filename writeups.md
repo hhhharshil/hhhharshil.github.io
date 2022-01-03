@@ -21,3 +21,4 @@ A collection of write-ups for retired boxes that breakdown my methodology.
 | [Tre](/writeups/2021-12-30-tre.md)                            | medium     | 
 | [Sunset:Midnight](/writeups/2021-12-31-sunsetmidnight.md)     | medium     | 
 | [Djinn3](/writeups/2022-01-01-djinn3.md)                      | hard       |
+| [Glasgow:Smile](/writeups/2022-01-02-glasgow.md)              | hard       |
